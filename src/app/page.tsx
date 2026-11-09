@@ -5,6 +5,7 @@ export default function Home() {
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <h2 className="text-blue-600 font-bold text-2xl">Welcome to JENKINS Learning with CI/CD and Docker</h2> 
       <h4 className="text-green-600">Student Name: Subhajit Das</h4>
+      <h5>Contact :9804647078</h5>
     </div>
   );
 }
